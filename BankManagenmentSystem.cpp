@@ -96,7 +96,7 @@ case  3 :
     break;
 
 case  4 :
-    cout<<"4. Open account : \n"; 
+    cout<<"4. Display account : \n"; 
     obj.display_Account();
     break;
 
